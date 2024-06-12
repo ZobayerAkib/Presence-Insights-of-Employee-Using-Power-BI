@@ -40,3 +40,21 @@ The Power BI dashboard provides the following visualizations:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/employee-attendance-analysis.git
+
+
+   
+### Instructions for Setting Up Power BI Dashboard
+
+1. **Prepare the Dataset**: Ensure your dataset is formatted correctly and saved as `employee_attendance.csv`.
+2. **Load Data into Power BI**:
+   - Open Power BI Desktop.
+   - Load the dataset (`employee_attendance.csv`) into Power BI.
+3. **Create Data Model**:
+   - Create necessary calculated columns and measures for total workdays, present days, present percentage, sick leave percentage, and work-from-home percentage.
+4. **Create Visualizations**:
+   - Use line charts, bar charts, and tables to visualize the monthly, weekly, and date-wise analysis.
+5. **Publish Dashboard**:
+   - Once the dashboard is ready, publish it to the Power BI service for sharing and collaboration.
+
+By following the above steps, you will be able to analyze and visualize the employee attendance data effectively.
+
