@@ -35,6 +35,8 @@ The Power BI dashboard provides the following visualizations:
 3. **Date-wise Analysis**:
    - Detailed view of daily attendance status.
 
+## A snap of the Dashboard
+
 ![bi](https://github.com/ZobayerAkib/Presence-Insights-of-Employee-Using-Power-BI/assets/66842328/1e3c0028-cd15-4ed7-8155-8c511c24350f)
 
 ## How to Use
