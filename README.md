@@ -39,7 +39,7 @@ The Power BI dashboard provides the following visualizations:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/employee-attendance-analysis.git
+   [git clone https://github.com/your-username/employee-attendance-analysis.git]
 
 
    
